@@ -1,0 +1,19 @@
+.apresentacao{
+    text-align: center;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    width: 35%;
+    position: relative;
+    margin: 3%;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.3);
+}
+img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
